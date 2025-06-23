@@ -1,0 +1,5 @@
+route_id,source,destination,distance_km,vehicle_type
+R1,WarehouseA,Store1,120,EV
+R2,WarehouseA,Store2,200,Diesel
+R3,WarehouseB,Store1,150,Diesel
+R4,WarehouseB,Store2,100,EV 

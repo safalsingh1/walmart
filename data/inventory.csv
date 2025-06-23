@@ -1,0 +1,6 @@
+product_id,category,stock,demand_forecast,shelf_life
+1001,Produce,200,150,7
+1002,Dairy,120,100,10
+1003,Bakery,80,60,3
+1004,Meat,60,50,5
+1005,Beverages,300,250,30 
